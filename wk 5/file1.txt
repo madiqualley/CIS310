@@ -1,0 +1,4 @@
+This is a new line input!this will override my fileded to file1.txt !
+This is another line, I can add more lines with fa variable!
+This is a second line added to file1.txt !
+This is another line, I can add more lines with fa variable!
